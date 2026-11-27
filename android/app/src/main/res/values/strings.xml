@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Expiry Guard</string>
+    <string name="title_activity_main">Expiry Guard</string>
+    <string name="package_name">com.alaraqi.expiryguard</string>
+    <string name="custom_url_scheme">com.alaraqi.expiryguard</string>
+</resources>
